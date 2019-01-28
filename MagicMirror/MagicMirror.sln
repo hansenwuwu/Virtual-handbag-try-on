@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicMirror.Plugins", "MagicMirror.Plugins.csproj", "{2F61B01D-1FEF-7464-1C10-9944E8BE3B45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicMirror", "MagicMirror.csproj", "{0076FAC5-757B-4248-5819-15F70E011A0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicMirror.Editor.Plugins", "MagicMirror.Editor.Plugins.csproj", "{2CCF02FB-DC0D-9DBB-1927-01037E6EAB96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F61B01D-1FEF-7464-1C10-9944E8BE3B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F61B01D-1FEF-7464-1C10-9944E8BE3B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F61B01D-1FEF-7464-1C10-9944E8BE3B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F61B01D-1FEF-7464-1C10-9944E8BE3B45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0076FAC5-757B-4248-5819-15F70E011A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0076FAC5-757B-4248-5819-15F70E011A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0076FAC5-757B-4248-5819-15F70E011A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0076FAC5-757B-4248-5819-15F70E011A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CCF02FB-DC0D-9DBB-1927-01037E6EAB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CCF02FB-DC0D-9DBB-1927-01037E6EAB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CCF02FB-DC0D-9DBB-1927-01037E6EAB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CCF02FB-DC0D-9DBB-1927-01037E6EAB96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
