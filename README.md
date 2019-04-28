@@ -9,3 +9,8 @@ system and it can operate in real-time;
 * Unity
 * Kinect v2
 * Body Scanner
+
+# Demo
+![Alt text](https://imgur.com/1X9bBbn.jpg)
+<br /><br />
+Video: https://drive.google.com/open?id=1U78Nb_MhNaW8sSEYnN6mAug68PKaqXfY
